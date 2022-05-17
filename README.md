@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/qhtjd8989/JavaStudy-bosung-20220513"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn" />
+<a href="https://github.com/qhtjd8989/JavaStudy-bosung-20220513"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+
