@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Bo%20Sung&fontSize=90&animation=fadeIn" /> -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Bo%20Sung&fontSize=90)
 <a href="https://github.com/qhtjd8989/JavaStudy-bosung-20220513"><img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=black"/></a>
-<a href="https://github.com/qhtjd8989"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=Java&logoColor=#E34F26"/></a>
+<a href="https://github.com/qhtjd8989"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>
