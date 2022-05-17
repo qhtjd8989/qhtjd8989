@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Bo%20Sung&fontSize=90&animation=fadeIn&textBg=true" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Bo%20Sung&fontSize=90&animation=fadeIn" />
 <a href="https://github.com/qhtjd8989/JavaStudy-bosung-20220513"><img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=black"/></a>
 
