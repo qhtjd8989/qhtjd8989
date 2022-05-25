@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <br><br><br><br><br>
 <a href="https://github.com/qhtjd8989/JavaStudy-bosung-20220513"><img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=black"/></a>
 <a href="https://github.com/qhtjd8989"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>
-<a href="https://github.com/qhtjd8989"><img src="https://img.shields.io/badge/Spring-ffffff?style=flat-square&logo=Spring&logoColor=6db33f"/></a>
+<a href="https://github.com/qhtjd8989"><img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=ffffff"/></a>
