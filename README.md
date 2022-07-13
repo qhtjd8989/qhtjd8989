@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/qhtjd8989/JavaStudy-bosung-20220513"><img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=black"/></a>
 <a href="https://github.com/qhtjd8989/web-basic"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>
 <a href="https://github.com/qhtjd8989/Jsp"><img src="https://img.shields.io/badge/JSP-66459B?style=flat-square&logo=JSP&logoColor=ffffff"/></a>
-<a href="https://github.com/qhtjd8989"><img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=ffffff"/></a>
+<a href="https://github.com/qhtjd8989/springboot-study-20220712"><img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=ffffff"/></a>
