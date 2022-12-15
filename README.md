@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhtjd8989)](https://solved.ac/qhtjd8989/)
 <br><br><br><br>
 <a href="https://curious-base-7bc.notion.site/java-fb971a9284d44c059d702db0529d8102"><img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=black"/></a>
+<br>
 <a href="https://github.com/qhtjd8989/web-basic"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=#E34F26&"/></a>
+<br>
 <a href="https://github.com/qhtjd8989/Jsp"><img src="https://img.shields.io/badge/JSP-66459B?style=flat-square&logo=JSP&logoColor=ffffff"/></a>
-<a href="https://github.com/qhtjd8989/springoot-study-20220712"><img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=ffffff"/></a>
+<br>
+<a href="https://github.com/qhtjd8989/springoot-study-20220712"><img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=ffffff"/></a><br>
 <a href="https://curious-base-7bc.notion.site/AWS-b55cb88a008d4558bb685fc256d325d9">aws</a>
 
 
